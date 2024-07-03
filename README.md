@@ -12,3 +12,9 @@
   <img src="https://raw.githubusercontent.com/canci/NovalandLanding/main/files/5.png?raw=true" width="47%" style="border-radius:10px; margin:10px;" align="left"/>
   <img src="https://raw.githubusercontent.com/canci/NovalandLanding/main/files/6.png?raw=true" width="47%" style="border-radius:10px; margin:10px;"/>
 </div>
+<hr/>
+<div align="center>
+  <p align="center">
+    <a href="https://github.com/sponsors/canci"><img src="https://raw.githubusercontent.com/canci/NovalandLanding/main/files/sponsor.png?raw=true"/></a>
+  </p>
+</p>
