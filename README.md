@@ -15,6 +15,8 @@
 <hr/>
 <div align="center>
   <p align="center">
-    <a href="https://github.com/sponsors/canci"><img src="https://raw.githubusercontent.com/canci/NovalandLanding/main/files/sponsor.png?raw=true"/></a>
+  <center>
+    <a href="https://github.com/sponsors/canci" align="center"><img src="https://raw.githubusercontent.com/canci/NovalandLanding/main/files/sponsor.png?raw=true"/></a>
+  </center>
   </p>
 </p>
